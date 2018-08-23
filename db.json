@@ -1,0 +1,95 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Joey",
+      "type": "kangaroo",
+      "img": "https://i.ytimg.com/vi/WlaEXGISF7I/maxresdefault.jpg",
+      "sex": "male"
+    },{
+      "id": 2,
+      "name": "Sally",
+      "type": "kangaroo",
+      "img": "https://s3.amazonaws.com/wildambienceassets/wp-content/uploads/2018/03/02141133/nsw_02246.jpg",
+      "sex": "female"
+    },{
+      "id": 3,
+      "name": "Fred",
+      "type": "koala",
+      "img": "https://www.sbzoo.org/wp-content/uploads/2018/03/edmund_headshot.jpg",
+      "sex": "male"
+    },{
+      "id": 4,
+      "name": "Francis",
+      "type": "koala",
+      "img": "https://i.ytimg.com/vi/1R-QFQGWYuc/maxresdefault.jpg",
+      "sex": "female"
+    },{
+      "id": 5,
+      "name": "Arnold",
+      "type": "koala",
+      "img": "https://cdn.britannica.com/26/162626-004-C076EDBD.jpg",
+      "sex": "male"
+    },{
+      "id": 6,
+      "name": "Samantha",
+      "type": "koala",
+      "img": "https://www.australia.com/content/australia/en_ie/news/2016/may/Top-5-places-to-see-Koalas-in-the-wild/_jcr_content/hero/image.adapt.1663.medium.jpg",
+      "sex": "female"
+    },{
+      "id": 7,
+      "name": "Earl",
+      "type": "koala",
+      "img": "https://www.savethekoala.com/sites/savethekoala.com/files/uploads/31.jpg",
+      "sex": "male"
+    },{
+      "id": 8,
+      "name": "Jermaine",
+      "type": "kangaroo",
+      "img": "http://cdn.discoverwildlife.com/sites/default/files/imagecache/623px_wide/main/kangaroo_DirkFreder_iStock_623.jpg",
+      "sex": "male"
+    },{
+      "id": 9,
+      "name": "Everett",
+      "type": "kangaroo",
+      "img": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/globalmeatnews.com/article/2018/03/29/kangaroo-meat-backed-by-australian-government/8023590-1-eng-GB/Kangaroo-meat-backed-by-Australian-government_wrbm_large.jpg",
+      "sex": "male"
+    },{
+      "id": 10,
+      "name": "Tiffany",
+      "type": "kangaroo",
+      "img": "https://md9ixlj413-flywheel.netdna-ssl.com/wp-content/uploads/2007/12/kangaroo-facts.jpg",
+      "sex": "female"
+    },{
+      "id": 11,
+      "name": "Alfredo",
+      "type": "wombat",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg",
+      "sex": "male"
+    },{
+      "id": 12,
+      "name": "Timmy",
+      "type": "wombat",
+      "img": "https://i.ytimg.com/vi/OiuQ_rVM-WE/maxresdefault.jpg",
+      "sex": "male"
+    },{
+      "id": 13,
+      "name": "Carlie",
+      "type": "wombat",
+      "img": "https://www.globalgiving.org/pfil/15888/pict_original.jpg",
+      "sex": "female"
+    },{
+      "id": 14,
+      "name": "Susan",
+      "type": "wombat",
+      "img": "https://reptilepark.com.au/wp-content/uploads/2016/05/walter_the_combat.jpg",
+      "sex": "female"
+    },{
+      "id": 15,
+      "name": "Wolfram",
+      "type": "wombat",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDGw8ZNak2JPWw7FO3YT-DjpH7LY1X4sIvOLl-qMUuksxsxeH1",
+      "sex": "male"
+    }
+  ]
+}
