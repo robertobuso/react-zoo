@@ -5,7 +5,7 @@ class Zoo extends Component {
     return (
       <div>
         <h2>Zoo</h2>
-        <div class="container row">
+        <div className="container row">
 
         </div>
       </div>
