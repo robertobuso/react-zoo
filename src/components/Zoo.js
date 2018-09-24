@@ -4,7 +4,7 @@ class Zoo extends Component {
   render() {
     return (
       <div>
-        <h2>Zoo</h2>
+        <h2>My Zoo</h2>
         <div className="container row">
 
         </div>

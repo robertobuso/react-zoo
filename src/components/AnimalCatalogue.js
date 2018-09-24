@@ -5,8 +5,9 @@ class AnimalCatalogue extends Component {
     return (
       <div>
         <h2>Animal Catalogue</h2>
-        <div className="container row"></div>
-
+        <div className="container row">
+          
+        </div>
       </div>
     );
   }

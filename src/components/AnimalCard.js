@@ -4,8 +4,7 @@ class AnimalCard extends Component {
   render() {
     return (
       <div>
-        
-
+        AnimalCard
       </div>
     );
   }
