@@ -17,19 +17,26 @@ class App extends Component {
 
     handleSelect = (animal, location) => {
       if (location === 'catalogue') {
+        if (this.validateGender(animal)===true) {
+          alert('YOU CANNOT HAVE TWO ANIMALS OF THE SAME GENDER IN YOUR ZOO YOU PREVERTED PERVERT')
+        } else {
         const idx = this.state.catalogueAnimals.indexOf(animal)
         this.state.catalogueAnimals.splice(idx,1)
         this.setState({
           catalogueAnimals: this.state.catalogueAnimals,
           zooAnimals:[...this.state.zooAnimals, animal]
         })
-      } else if (location === 'zoo') {
+      }} else if (location === 'zoo') {
         const idx = this.state.zooAnimals.indexOf(animal)
         this.state.zooAnimals.splice(idx,1)
         this.setState({
           catalogueAnimals:[...this.state.catalogueAnimals, animal],
           zooAnimals:this.state.zooAnimals})
       }
+    }
+
+    validateGender = (thisAnimal) => {
+      return this.state.zooAnimals.map(animal => animal.sex).includes(thisAnimal.sex)
     }
 
   render() {
